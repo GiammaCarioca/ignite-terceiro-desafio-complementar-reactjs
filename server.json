@@ -21,16 +21,8 @@
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
-    },
-    {
-      "image": "https://i0.wp.com/post-italy.com/wp-content/uploads/2017/12/pizza.jpg?resize=940%2C480&ssl=1",
-      "name": "Italiana",
-      "price": "12.00",
-      "description": "pizza margherita napoletana",
       "available": true,
-      "id": 4
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     }
   ]
 }
